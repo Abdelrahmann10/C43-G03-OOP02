@@ -1,0 +1,4 @@
+D:\.Net\Route\OOP\OOP2-Demo\obj\Debug\net8.0\OOP2-Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\OOP\OOP2-Demo\obj\Debug\net8.0\OOP2-Demo.AssemblyInfoInputs.cache
+D:\.Net\Route\OOP\OOP2-Demo\obj\Debug\net8.0\OOP2-Demo.AssemblyInfo.cs
+D:\.Net\Route\OOP\OOP2-Demo\obj\Debug\net8.0\OOP2-Demo.csproj.CoreCompileInputs.cache
